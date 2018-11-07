@@ -1,0 +1,4 @@
+export CF_MAIL="admin@example.com"
+export CF_KEY="CF_API_KEY"
+#you can remove it
+#export CURLPROXY="socks5://localhost:1080"

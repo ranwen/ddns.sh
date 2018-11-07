@@ -1,0 +1,1 @@
+curl localhost/ip.php 2>/dev/null

@@ -1,0 +1,1 @@
+curl ip.sb 2>/dev/null

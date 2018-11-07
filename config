@@ -1,0 +1,5 @@
+export IP_API="ipsb"
+export DOMAIN="ddns.example.com"
+#use array like "a b"
+export DNS_API="cf"
+export NOTIFY_API="notificationme_bot tgbot"

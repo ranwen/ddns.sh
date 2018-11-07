@@ -1,0 +1,5 @@
+export BOTTOKEN="233:1234567890abcdefghijk"
+export OWNERID="23333333"
+#you can remove them or chose one
+#export CURLPROXY="socks5://localhost:1080"
+#export SOCKSPROXY="localhost:1080"

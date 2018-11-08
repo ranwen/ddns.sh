@@ -1,9 +1,9 @@
 # ddns.sh
-bash实现的DDNS
+shell实现的DDNS
 
 ## 特性
 
-- 纯bash实现
+- 纯shell实现
 - 可随意添加自定义模块
 
 ## 功能
@@ -11,9 +11,15 @@ bash实现的DDNS
 - 基础DDNS
 - 通知功能
 
+## 目前支持的IP获取方式
+- ip.sb
+- ifconfig.co
+- ip-api.com
+
 ## 目前支持的DNS
 
 - Cloudflare
+- DNSPOD
 
 ## 目前支持的通知方式
 
@@ -54,3 +60,7 @@ bash实现的DDNS
 /path/ddns.sh -d
 ```
 
+### TODO
+- 增加更多的DNS API
+- 支持IPV6
+- 完善错误处理

@@ -1,0 +1,4 @@
+export DP_ID="23333"
+export DP_TOKEN="12333366661145141919"
+#you can remove it
+#export CURLPROXY="socks5://localhost:1080"

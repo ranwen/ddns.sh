@@ -1,1 +1,1 @@
-curl ip.sb 2>/dev/null
+curl -4 ip.sb 2>/dev/null
